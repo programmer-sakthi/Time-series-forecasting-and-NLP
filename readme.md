@@ -51,4 +51,23 @@ for the **Time Series and NLP** learning portal.
 |    5 | ✔️     | -                                |
 |    6 | ❌     | the question is from another day |
 
+## 📅 Day 2
+
+### 🔹 Concept Questions
+
+| Q.No | Status | Remarks              |
+| ---: | ------ | -------------------- |
+|    1 | ❌     | Testcases won't pass |
+|    2 | ✔️     | -                    |
+|    3 | ✔️     | -                    |
+|    4 | ✔️     | -                    |
+
+### 🔹 Practice Questions
+
+| Q.No | Status | Remarks |
+| ---: | ------ | ------- |
+|    1 | ✔️     | -       |
+|    2 | ✔️     | -       |
+|    3 | ✔️     | -       |
+
 ---
